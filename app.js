@@ -13,7 +13,7 @@ socket.on('connect', function() {
   var clientDetails = {
       name : 'Akash Agrawal',
       email : 'akash_agrawal@yahoo.co.uk',
-      url : 'http://github.com/ba/bingo'
+      url : 'https://github.com/akashagr/akasha-bingo'
   };
   socket.emit('register', clientDetails);
 
