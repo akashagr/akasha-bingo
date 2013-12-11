@@ -1,14 +1,3 @@
-/**
- * Wraps and exports a logger
- *
- * @since: 5/16/2013 
- *
- * @author: rpitchai@qti.qualcomm.com  
- *
- * Copyright (c) 2013 Qualcomm, Inc. All rights reserved.
- * Qualcomm, Inc. Proprietary and Confidential.
- */
-
 var winston = require('winston');
 var moment = require('moment');
 
